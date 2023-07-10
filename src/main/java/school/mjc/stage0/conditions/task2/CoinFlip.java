@@ -6,7 +6,7 @@ public class CoinFlip {
             System.out.println("Eagle");
         }
         else {
-            System.out.println("Tails");
+            System.out.println("Tail");
         }
     }
 }

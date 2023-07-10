@@ -10,7 +10,6 @@ public class GreatestNumberPrinter {
         }
         else{
             System.out.println(first);
-            System.out.println(second);
         }
     }
 }
